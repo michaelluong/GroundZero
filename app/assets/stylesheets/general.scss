@@ -47,12 +47,17 @@ h3 {
     color: #999;
 }
 
-.motto {
-  color: #999;
-}
-
-.motto strong {
-  color: #49b0e3;
+#main_title {
+  line-height: 50px;
+  .motto {
+    color: #999;
+    font-size: 32px;
+    vertical-align: top;
+  }
+  strong {
+    font-size: 42px;
+    color: #49b0e3;
+  }
 }
 
 h2 {
