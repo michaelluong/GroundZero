@@ -41,6 +41,20 @@ h3 {
     color:#aaa;
 }
 
+.subheader_title {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight:100;
+    color: #999;
+}
+
+.motto {
+  color: #999;
+}
+
+.motto strong {
+  color: #49b0e3;
+}
+
 h2 {
     text-align:center;
     font-size:48px;
